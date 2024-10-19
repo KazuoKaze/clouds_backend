@@ -53,6 +53,10 @@ cover/
 
 env/
 
+src/size.xlsx
+
+src/media
+
 # Translations
 *.mo
 *.pot

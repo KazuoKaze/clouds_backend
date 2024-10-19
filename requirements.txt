@@ -16,3 +16,5 @@ pillow
 djangorestframework
 markdown
 django-filter
+pandas
+openpyxl
